@@ -41,10 +41,25 @@ npx kazoottt-template-cli help
 * `cloudflare-remix-nextui`: 使用 Remix 和 NextUI 创建的 Cloudflare Workers 项目模板。
 * `cloudflare-remix-shadcn`: 使用 Remix 和 Shadcn 创建的 Cloudflare Workers 项目模板。
 
-## 贡献
-
-如果您想贡献新的模板或功能，请查看我们的 [贡献指南](https://github.com/kazoottt/kazoottt-template-cli/blob/main/CONTRIBUTING.md)。
-
 ## 许可证
 
 本项目根据 MIT 许可证发布。
+
+[![npm version][npm-version-src]][npm-version-href]
+[![npm downloads][npm-downloads-src]][npm-downloads-href]
+[![bundle][bundle-src]][bundle-href]
+[![JSDocs][jsdocs-src]][jsdocs-href]
+[![License][license-src]][license-href]
+
+<!-- Badges -->
+
+[npm-version-src]: https://img.shields.io/npm/v/kazoottt-template-cli?style=flat&colorA=080f12&colorB=1fa669
+[npm-version-href]: https://npmjs.com/package/kazoottt-template-cli
+[npm-downloads-src]: https://img.shields.io/npm/dm/kazoottt-template-cli?style=flat&colorA=080f12&colorB=1fa669
+[npm-downloads-href]: https://npmjs.com/package/kazoottt-template-cli
+[bundle-src]: https://img.shields.io/bundlephobia/minzip/kazoottt-template-cli?style=flat&colorA=080f12&colorB=1fa669&label=minzip
+[bundle-href]: https://bundlephobia.com/result?p=kazoottt-template-cli
+[license-src]: https://img.shields.io/github/license/kazoottt/kazoottt-template-cli.svg?style=flat&colorA=080f12&colorB=1fa669
+[license-href]: https://github.com/kazoottt/kazoottt-template-cli/blob/main/LICENSE
+[jsdocs-src]: https://img.shields.io/badge/jsdocs-reference-080f12?style=flat&colorA=080f12&colorB=1fa669
+[jsdocs-href]: https://www.jsdocs.io/package/kazoottt-template-cli
