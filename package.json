@@ -28,5 +28,11 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
+  },
+  "scripts": {
+    "release": "bumpp && pnpm publish"
+  },
+  "devDependencies": {
+    "bumpp": "^9.9.1"
   }
 }
