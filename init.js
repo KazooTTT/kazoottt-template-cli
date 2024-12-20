@@ -1,7 +1,6 @@
 const fs = require("fs");
 const path = require("path");
 const process = require("process");
-console.log("%c Line:4 🥟 process", "color:#7f2b82", process.argv);
 
 const command = process.argv[2]; // 获取命令参数
 const template = process.argv[3]; // 获取模板参数
