@@ -5,7 +5,7 @@
   "main": "init.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kazoottt/kazoottt-template-cli.git"
+    "url": "https://github.com/KazooTTT/kazoottt-template-cli"
   },
   "bugs": {
     "url": "https://github.com/kazoottt/kazoottt-template-cli/issues"
