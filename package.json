@@ -30,6 +30,7 @@
     "access": "public"
   },
   "scripts": {
+    "bumpp": "bumpp",
     "release": "bumpp && pnpm publish"
   },
   "devDependencies": {
